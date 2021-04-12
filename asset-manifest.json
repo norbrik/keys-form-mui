@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/keys-form-mui/static/css/main.e9c304a9.chunk.css",
+    "main.js": "/keys-form-mui/static/js/main.dd088553.chunk.js",
+    "main.js.map": "/keys-form-mui/static/js/main.dd088553.chunk.js.map",
+    "runtime-main.js": "/keys-form-mui/static/js/runtime-main.acc88e2e.js",
+    "runtime-main.js.map": "/keys-form-mui/static/js/runtime-main.acc88e2e.js.map",
+    "static/js/2.d61a91b9.chunk.js": "/keys-form-mui/static/js/2.d61a91b9.chunk.js",
+    "static/js/2.d61a91b9.chunk.js.map": "/keys-form-mui/static/js/2.d61a91b9.chunk.js.map",
+    "index.html": "/keys-form-mui/index.html",
+    "static/css/main.e9c304a9.chunk.css.map": "/keys-form-mui/static/css/main.e9c304a9.chunk.css.map",
+    "static/js/2.d61a91b9.chunk.js.LICENSE.txt": "/keys-form-mui/static/js/2.d61a91b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acc88e2e.js",
+    "static/js/2.d61a91b9.chunk.js",
+    "static/css/main.e9c304a9.chunk.css",
+    "static/js/main.dd088553.chunk.js"
+  ]
+}

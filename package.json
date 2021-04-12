@@ -5,7 +5,7 @@
   "keywords": [
     "material-ui"
   ],
-  "homepage": "http://abhisheshpradhan.github.io/keys-form",
+  "homepage": "https://norbrik.github.io/keys-form-mui",
   "main": "src/index.js",
   "dependencies": {
     "@date-io/date-fns": "latest",
